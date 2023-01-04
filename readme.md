@@ -8,6 +8,7 @@
 <body>
     <h1>This is Assignment one: </h1>
     <h1>Screeneshot</h1>
-![](screenshot.png)
+
 </body>
 </html>
+![](screenshot.png)
